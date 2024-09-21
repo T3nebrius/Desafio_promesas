@@ -19,3 +19,6 @@ Requerimientos
 (2 Puntos)
 6. Crear una función asíncrona que permita recibir el mensaje de la promesa creada en el requerimiento cinco (5), de forma directa con await, para ser mostrado en la consola del navegador, agregando el llamado a las dos funciones principales.
 (2 Puntos)
+
+ADICIONALES:
+* URL API: https://jsonplaceholder.typicode.com/photos
